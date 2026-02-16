@@ -1,0 +1,17 @@
+docker container:
+
+    run
+
+    remove
+
+    list
+
+    publish
+
+    environment variables
+
+    logs
+
+    detached
+
+docker pull
